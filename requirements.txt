@@ -6,6 +6,7 @@ mne
 numpy
 pandas
 psychopy
+pylsl
 pyxdf
 rich
 scipy
